@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf622e1-f372-4829-9b05-bc3a2bfe76a3" name="Changes" comment="Движок">
-      <change afterPath="$PROJECT_DIR$/PyCharmMiscProject/misaev2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fbf622e1-f372-4829-9b05-bc3a2bfe76a3" name="Changes" comment="Движок" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,36 +37,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for dd.TestAnimationSystem.executor": "Run",
-    "Python tests.Python tests in dd.py.executor": "Run",
-    "Python.Current File.executor": "Debug",
-    "Python.Lesson 2.executor": "Run",
-    "Python.Lesson 4.executor": "Run",
-    "Python.Lesson1.executor": "Run",
-    "Python.Lesson3.executor": "Run",
-    "Python.Lesson5.executor": "Run",
-    "Python.TEST.executor": "Run",
-    "Python.Test 2.executor": "Run",
-    "Python.Test1.executor": "Run",
-    "Python.dd.executor": "Run",
-    "Python.gg.executor": "Run",
-    "Python.hdd.executor": "Run",
-    "Python.misaev.executor": "Run",
-    "Python.misaev2.executor": "Run",
-    "Python.null.executor": "Run",
-    "Python.script.executor": "Run",
-    "Python.калькулятор.executor": "Run",
-    "Python.ппу.executor": "Run",
-    "Python.я соска.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "development",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for dd.TestAnimationSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in dd.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Current File.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lesson 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TEST.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hdd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.misaev.executor&quot;: &quot;Run&quot;,
+    &quot;Python.misaev2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.null.executor&quot;: &quot;Run&quot;,
+    &quot;Python.script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.калькулятор.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ппу.executor&quot;: &quot;Run&quot;,
+    &quot;Python.я соска.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.я соска">
     <configuration name="я соска" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyCharmMiscProject" />
