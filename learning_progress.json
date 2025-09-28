@@ -1,0 +1,234 @@
+{
+  "stages": {
+    "stage1": {
+      "name": "Основы Python (3-8 недель)",
+      "completed": false,
+      "progress": 0.0,
+      "tasks": {
+        "task1": {
+          "name": "Пройти курс на Stepik",
+          "completed": false
+        },
+        "task2": {
+          "name": "Пройти курс на Hexlet",
+          "completed": false
+        },
+        "task3": {
+          "name": "Посмотреть видео Егорова",
+          "completed": false
+        },
+        "task4": {
+          "name": "Прочитать книгу 'Изучаем Python'",
+          "completed": false
+        },
+        "task5": {
+          "name": "Зарегистрироваться на Coding Game",
+          "completed": false
+        },
+        "task6": {
+          "name": "Решить 20+ задач",
+          "completed": false
+        },
+        "task7": {
+          "name": "Создать калькулятор",
+          "completed": false
+        },
+        "task8": {
+          "name": "Создать конвертер валют",
+          "completed": false
+        },
+        "task9": {
+          "name": "Создать программу для учета финансов",
+          "completed": false
+        }
+      },
+      "resources": {
+        "resource1": {
+          "name": "Программирование на Python (Stepik)",
+          "url": "https://stepik.org/course/67/promo",
+          "completed": false
+        },
+        "resource2": {
+          "name": "Интерактивный тренажер Hexlet",
+          "url": "https://ru.hexlet.io/courses/python-basics",
+          "completed": false
+        },
+        "resource3": {
+          "name": "Python для начинающих (YouTube-канал Егорова)",
+          "url": "https://www.youtube.com/playlist?list=PLQAt0m1f9OHvGM7Y7jZBZS-9wTksAidIF",
+          "completed": false
+        },
+        "resource4": {
+          "name": "Книга \"Изучаем Python\" (Эрик Мэтиз)",
+          "url": "https://www.ozon.ru/product/izuchaem-python-programmirovanie-igr-vizualizatsiya-dannyh-prilozheniya-erik-metiz-207759704/",
+          "completed": false
+        }
+      }
+    },
+    "stage2": {
+      "name": "Освоение Git и GitHub (1-2 недели)",
+      "completed": false,
+      "progress": 0,
+      "tasks": {
+        "task1": {
+          "name": "Пройдите GitHub Skills",
+          "completed": false
+        },
+        "task2": {
+          "name": "Изучите Learn Git Branching",
+          "completed": false
+        },
+        "task3": {
+          "name": "Прочитайте главы 1-3 Pro Git",
+          "completed": false
+        },
+        "task4": {
+          "name": "Установите Git",
+          "completed": false
+        },
+        "task5": {
+          "name": "Создайте аккаунт на GitHub",
+          "completed": false
+        },
+        "task6": {
+          "name": "Создайте первый репозиторий",
+          "completed": false
+        },
+        "task7": {
+          "name": "Сделайте 5+ коммитов",
+          "completed": false
+        },
+        "task8": {
+          "name": "Создайте ветку и merge request",
+          "completed": false
+        }
+      },
+      "resources": {
+        "resource1": {
+          "name": "GitHub Skills",
+          "url": "https://skills.github.com/",
+          "completed": false
+        },
+        "resource2": {
+          "name": "Learn Git Branching",
+          "url": "https://learngitbranching.js.org/",
+          "completed": false
+        },
+        "resource3": {
+          "name": "Pro Git (книга)",
+          "url": "https://git-scm.com/book/ru/v2",
+          "completed": false
+        }
+      }
+    },
+    "stage3": {
+      "name": "Углубленное изучение Python (1-2 месяца)",
+      "completed": false,
+      "progress": 0,
+      "tasks": {
+        "task1": {
+          "name": "Изучить ООП: классы и объекты",
+          "completed": false
+        },
+        "task2": {
+          "name": "Изучить наследование и полиморфизм",
+          "completed": false
+        },
+        "task3": {
+          "name": "Освоить виртуальные окружения",
+          "completed": false
+        },
+        "task4": {
+          "name": "Изучить менеджер пакетов pip",
+          "completed": false
+        },
+        "task5": {
+          "name": "Создать телефонный справочник",
+          "completed": false
+        },
+        "task6": {
+          "name": "Создать игру 'Виселица'",
+          "completed": false
+        },
+        "task7": {
+          "name": "Создать парсер сайта",
+          "completed": false
+        },
+        "task8": {
+          "name": "Создать Telegram-бота",
+          "completed": false
+        }
+      },
+      "resources": {
+        "resource1": {
+          "name": "Python. К вершинам мастерства (Лучано Рамальо)",
+          "url": "https://www.ozon.ru/product/python-k-vershinam-masterstva-144901049/",
+          "completed": false
+        },
+        "resource2": {
+          "name": "Официальная документация Python",
+          "url": "https://docs.python.org/3/tutorial/index.html",
+          "completed": false
+        }
+      }
+    },
+    "stage4": {
+      "name": "Выбор специализации (2-4 месяца)",
+      "completed": false,
+      "progress": 0,
+      "tasks": {
+        "task1": {
+          "name": "Выбрать специализацию (Веб или Data Science)",
+          "completed": false
+        },
+        "task2": {
+          "name": "Изучить выбранный фреймворк",
+          "completed": false
+        },
+        "task3": {
+          "name": "Изучить базы данных",
+          "completed": false
+        },
+        "task4": {
+          "name": "Создать проект на выбранном фреймворке",
+          "completed": false
+        },
+        "task5": {
+          "name": "Разработать REST API",
+          "completed": false
+        },
+        "task6": {
+          "name": "Изучить дополнительные библиотеки",
+          "completed": false
+        }
+      },
+      "resources": {
+        "web_resource1": {
+          "name": "Официальная документация Django",
+          "url": "https://docs.djangoproject.com/",
+          "completed": false
+        },
+        "web_resource2": {
+          "name": "Официальная документация Flask",
+          "url": "https://flask.palletsprojects.com/",
+          "completed": false
+        },
+        "web_resource3": {
+          "name": "Web-разработка на Python (Stepik)",
+          "url": "https://stepik.org/course/154538/promo",
+          "completed": false
+        },
+        "ds_resource1": {
+          "name": "Machine Learning на Coursera",
+          "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+          "completed": false
+        }
+      }
+    }
+  },
+  "metadata": {
+    "start_date": "2025-08-27",
+    "last_update": "2025-09-04 00:35:01",
+    "total_progress": 0.0
+  }
+}
